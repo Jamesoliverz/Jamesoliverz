@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Jamesoliverz/shivamprasad.com/blob/main/github-header-image.png">
 <h1 align="center">Hi 👋, I'm Jamesoliver</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
